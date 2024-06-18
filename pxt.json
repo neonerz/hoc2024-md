@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "music.md"
+        "music.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
