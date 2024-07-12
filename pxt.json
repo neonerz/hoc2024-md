@@ -12,7 +12,8 @@
         "tutorial-info-cache.json",
         "dance.md",
         "costume.md",
-        "setdesign.md"
+        "setdesign.md",
+        "no_code.md"
     ],
     "testFiles": [],
     "public": true,
