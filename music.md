@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Music
+# Compose the music
 
 ## Step 1
-Let's create music! First select an ``||hoc2024:instrument||`` and a ``||hoc2024:drum||`` beat. Then use the ``||hoc2024:keys||`` block to create the song. 
+Let's compose some music! First select an ``||hoc2024:instrument||`` and a ``||hoc2024:drum||`` beat. Then use the ``||hoc2024:keys||`` block to create the song. 
 
 #### ~ tutorialhint
 You can switch the ``||hoc2024:instrument||`` and/or ``||hoc2024:drum||`` at any time by adding a new one to your sequence.
@@ -33,5 +33,5 @@ You can switch the ``||hoc2024:instrument||`` and/or ``||hoc2024:drum||`` at any
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.32
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
 ```

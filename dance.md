@@ -2,10 +2,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Music
+# Choreograph a Dance
 
 ## Step 1
-Let's dance! Sequence together your dance steps to create a dance for the Agent to do.
+Let's dance! Sequence together your ``||hoc2024:dance steps||`` to create a dance for the Agent to do.
 
 #### ~ tutorialhint
 
@@ -23,15 +23,11 @@ Let's dance! Sequence together your dance steps to create a dance for the Agent 
     for (let i = 0; i < 3; i++) {
         hoc2024.dances(Dances.Move12)
     }
-    hoc2024.dances(Dances.Move6)
-    hoc2024.dances(Dances.Move6)
-    hoc2024.dances(Dances.Move7)
-    hoc2024.dances(Dances.Move7)
     hoc2024.dances(Dances.Move8)
     hoc2024.dances(Dances.Move8)
     hoc2024.dances(Dances.Move11)
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.36
+hoc2024-ts=github:ReWrite-Media/hoc2024-ts#v0.0.38
 ```

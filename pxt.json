@@ -10,7 +10,9 @@
         "README.md",
         "music.md",
         "tutorial-info-cache.json",
-        "dance.md"
+        "dance.md",
+        "costume.md",
+        "setdesign.md"
     ],
     "testFiles": [],
     "public": true,
